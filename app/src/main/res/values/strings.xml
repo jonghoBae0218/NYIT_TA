@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NYIT TA</string>
+    <string name="forLoopLink1"><a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html">For Loop_Oracle</a></string>
+    <string name="forLoopLink2"><a href="https://www.simplilearn.com/tutorials/java-tutorial/for-loop-in-java">For Loop Example_Simplilearn</a></string>
+    <string name="forLoopLink3"><a href="https://www.programiz.com/java-programming/nested-loop">Nested For Loop_Programiz</a></string>
+
+    <string name="whileLoopLink1"><a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html">While Loop_Oracle</a></string>
+    <string name="whileLoopLink2"><a href="https://www.programiz.com/java-programming/do-while-loop">While Loop Example_Programiz</a></string>
+
+    <string name="classDecLink1"><a href="https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html">Class Declaration_Oracle</a></string>
+    <string name="classDecLink2"><a href="https://www.geeksforgeeks.org/classes-objects-java/">Class Declaration_GeeksforGeeks</a></string>
+    <string name="classDecLink3"><a href="https://www.programiz.com/java-programming/class-objects">Class Declaration_Programiz</a></string>
+
+    <string name="other1"><a href="https://www.javatpoint.com/array-in-java">Arrays_Javatpoint</a></string>
+    <string name="other2"><a href="https://www.w3schools.com/java/java_methods.asp">Methods_W3schools</a></string>
+</resources>
